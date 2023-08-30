@@ -6,7 +6,7 @@ const page = () => {
         
 <nav class="bg-white border-gray-200 dark:bg-gray-900">
   <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
-    <a href="" class="flex items-center ">
+    <a href="/" class="flex items-center ">
         <img src="https://i.pinimg.com/736x/43/10/e8/4310e84e3beeede4c1060d5207c2f41e.jpg " class="h-8 mr-3 rounded-lg" alt="Logo" />
         <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">NITIN VERMA</span>
     </a>
