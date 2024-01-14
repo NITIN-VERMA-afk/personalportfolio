@@ -27,7 +27,7 @@ const page = () => {
         <h5 className="text-6xl uppercase my-20">lets connect</h5>
         <p className="text-3xl indent-4"> I'm not just about coding; I'm about building relationships and connections too. Whether you're a fellow developer, a potential collaborator, or someone looking to bring your digital ideas to life, I'm excited to connect and explore how we can work together to make the web an even better place.</p>
         <p className="text-3xl indent-4 mt-12"> Feel free to explore my portfolio to see some of the projects I've brought to fruition. Let's embark on this digital journey together!</p>
-        <p className="text-3xl indent-4 mt-12">Feel free to customize this text to match your personal style and experiences. Good luck with your portfolio creation! </p>
+      
        
         </div>
       </div>

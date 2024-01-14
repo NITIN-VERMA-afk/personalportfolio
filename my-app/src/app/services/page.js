@@ -7,7 +7,7 @@ const page = () => {
     <div>
       <Navbar/>
       <div>
-        <h1 className="text-6xl uppercase my-20">Services</h1>
+        <h1 className="text-6xl uppercase my-20 text-center">Services</h1>
         <p className="text-3xl indent-4">Welcome to the Services page, where I offer a range of web development solutions tailored to meet your needs. As a skilled MERN Stack developer, I specialize in crafting dynamic and user-friendly applications. Here's how I can assist you:</p>
         <h1 className="text-6xl uppercase my-20"> 1. Custom Web Application Development</h1>
         <p className="text-3xl indent-4"> I create bespoke web applications from the ground up, focusing on functionality, performance, and user experience. Whether you need a robust enterprise solution or a sleek startup MVP, I'm here to turn your ideas into reality. </p>
